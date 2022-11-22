@@ -6,6 +6,11 @@
 ### 5. git push -u origin main
 <br>
 
+# Git Cache 삭제
+### 1. git rm -r --cached . (로컬 Git Cache 삭제)
+### 2. git add .
+### 3. git commit -m 'chore: clear git cache' (원격 Repo 동기화)
+
 # Issue 오프닝 포맷(프로젝트 협업용)
 ## ❔ 이슈 내용
 ### 1줄로 간단하게 작성
